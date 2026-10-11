@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "cookiecutter-celeryproject",
+  "versions": [
+    {
+      "commit": "9efa7bd14701ee18c7a37ac649775e5b7a06577f",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:12:55.060102+00:00"
+    }
+  ]
+}
