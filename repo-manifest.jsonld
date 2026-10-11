@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/cookiecutter-celeryproject/commit/9efa7bd14701ee18c7a37ac649775e5b7a06577f",
       "git:hexsha": "9efa7bd14701ee18c7a37ac649775e5b7a06577f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
